@@ -29,8 +29,8 @@ Front:
 
 Back:
 - composer update
-- php artisan key:generate
 - Renomear o arquivo .env.example para .env e configurar com os dados de acesso a o banco de dados MySql
+- php artisan key:generate
 - php artisan migrate
 
 ## Como rodar
