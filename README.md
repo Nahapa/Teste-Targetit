@@ -58,7 +58,7 @@ No projeto foi construído o CRUD de usuarios, onde que no Back foi criado a API
 - CRUD Usuário.
 - Validação de dados na inserção de dados no Back.
 - Autenticação JWT no Back.
-- Documentação API <a href="https://documenter.getpostman.com/view/8741536/TzCL8UEJ">https://documenter.getpostman.com/view/8741536/TzCL8UEJ</a>
+- Documentação API <a href="https://documenter.getpostman.com/view/8741536/TzCL8UEJ" target="_blank">https://documenter.getpostman.com/view/8741536/TzCL8UEJ</a>
 
 ## Pendências
 
